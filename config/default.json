@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://nurda123:nurda123@cvcon-lntjj.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecretsecret",
+  "githubClientId": "3e4e1fbef4f98f4deb9f",
+  "githubSecret": "6b17e8b540463c402e101f38e63a1ab79784f1a7"
+}
